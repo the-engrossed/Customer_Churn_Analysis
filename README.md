@@ -1,7 +1,7 @@
 # Customer_Churn_Analysis
 # Telecom Customer Churn Analysis
 
-## Tools Used - SQL, Power BI, Python
+## Tools Used - SQL, Power BI, Python, Machine Learning
 
 ## Table of Contents
 1. [Project Objective](#project-objective)
